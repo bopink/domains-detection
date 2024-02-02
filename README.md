@@ -31,6 +31,3 @@ add_header 'Access-Control-Allow-Origin' 'https://v2board.com';
 
 前置页项目设定检测超过 60 秒会停止检测，并弹出提示框让其通过 Crisp 联系客服。Crisp ID 在 index.html 搜索 window.CRISP_WEBSITE_ID 进行填写。如果自己有使用其他客服系统，可以修改此处的客服对接代码，替换成自己的即可。
 
-## 联系我
-
-如果有跨域或其他问题不会解决，可以联系星闪 [https://t.me/StarGleam](https://t.me/StarGleam) 支付费用解决。
