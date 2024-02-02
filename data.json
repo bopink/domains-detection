@@ -1,0 +1,32 @@
+[
+  {
+    "checkUrl": "https://v.puretext.xyz",
+    "jumpUrl": "https://puretext.xyz"
+  },
+  {
+    "checkUrl": "https://v.puretext1.xyz",
+    "jumpUrl": "https://v.puretext1.xyz"
+  },
+  {
+    "checkUrl": "https://a.puretext1.xyz",
+    "jumpUrl": "https://a.puretext1.xyz"
+  },
+  {
+    "checkUrl": "https://a.nnu.one",
+    "jumpUrl": "https://a.nnu.one"
+  },
+  {
+    "checkUrl": "http://142.171.181.78:9870",
+    "jumpUrl": "http://142.171.181.78:9870" 
+  },
+  {
+    "checkUrl": "http://27.124.24.197:8712",
+    "jumpUrl": "http://27.124.24.197:8712"    
+  },
+  "https://v.puretext.xyz",
+  "https://v.puretext1.xyz",
+  "https://a.puretext1.xyz",
+  "https://a.nnu.one",
+  "http://142.171.181.78:9870",
+  "http://27.124.24.197:8712"
+]
