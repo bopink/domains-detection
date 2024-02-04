@@ -16,6 +16,10 @@
     "jumpUrl": "https://a.nnu.one"
   },
   {
+    "checkUrl": "https://20240204.puretext1.xyz",
+    "jumpUrl": "https://20240204.puretext1.xyz"
+  },
+  {
     "checkUrl": "http://142.171.181.78:9870",
     "jumpUrl": "http://142.171.181.78:9870" 
   },
@@ -26,6 +30,7 @@
   "https://v.puretext.xyz",
   "https://v.puretext1.xyz",
   "https://a.puretext1.xyz",
+  "https://20240204.puretext1.xyz",
   "https://a.nnu.one",
   "http://142.171.181.78:9870",
   "http://27.124.24.197:8712"
