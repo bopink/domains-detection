@@ -4,6 +4,10 @@
     "jumpUrl": "https://v.puretext.xyz"
   },
   {
+    "checkUrl": "https://20240221.puretext1.xyz",
+    "jumpUrl": "https://20240221.puretext1.xyz"
+  },
+  {
     "checkUrl": "https://20240204.puretext1.xyz",
     "jumpUrl": "https://20240204.puretext1.xyz"
   },
@@ -32,6 +36,7 @@
     "jumpUrl": "http://27.124.24.197:8712"    
   },
   "https://v.puretext.xyz",
+  "https://20240221.puretext1.xyz,
   "https://20240204.puretext1.xyz",
   "https://20240210.purecloud.me",
   "https://20240210.puretext1.xyz",
