@@ -4,6 +4,14 @@
     "jumpUrl": "https://v.puretext.xyz"
   },
   {
+    "checkUrl": "https://20240227.puretext1.xyz",
+    "jumpUrl": "https://20240227.puretext1.xyz"
+  },
+  {
+    "checkUrl": "https://20240227.purecloud.me",
+    "jumpUrl": "https://20240227.purecloud.me"
+  },
+  {
     "checkUrl": "https://20240221.puretext1.xyz",
     "jumpUrl": "https://20240221.puretext1.xyz"
   },
@@ -12,40 +20,17 @@
     "jumpUrl": "https://20240221.purecloud.me"
   },
   {
-    "checkUrl": "https://20240204.puretext1.xyz",
-    "jumpUrl": "https://20240204.puretext1.xyz"
-  },
-  {
-    "checkUrl": "https://20240210.puretext1.xyz",
-    "jumpUrl": "https://20240210.puretext1.xyz"
-  },
-  {
-    "checkUrl": "https://20240210.purecloud.me",
-    "jumpUrl": "https://20240210.purecloud.me"
-  },
-  {
     "checkUrl": "https://a.puretext1.xyz",
     "jumpUrl": "https://a.puretext1.xyz"
   },
   {
-    "checkUrl": "https://a.nnu.one",
-    "jumpUrl": "https://a.nnu.one"
-  },
-  {
     "checkUrl": "http://142.171.181.78:9870",
-    "jumpUrl": "http://142.171.181.78:9870" 
-  },
-  {
-    "checkUrl": "http://27.124.24.197:8712",
-    "jumpUrl": "http://27.124.24.197:8712"    
+    "jumpUrl": "http://142.171.181.78:9870"  
   },
   "https://v.puretext.xyz",
+  "https://20240227.puretext1.xyz",
+  "https://20240227.purecloud.me",
   "https://20240221.puretext1.xyz",
   "https://20240221.purecloud.me",
-  "https://20240204.puretext1.xyz",
-  "https://20240210.purecloud.me",
-  "https://20240210.puretext1.xyz",
-  "https://a.nnu.one",
-  "http://142.171.181.78:9870",
-  "http://27.124.24.197:8712"
+  "http://142.171.181.78:9870"
 ]
