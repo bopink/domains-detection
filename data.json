@@ -23,14 +23,9 @@
     "checkUrl": "https://a.puretext1.xyz",
     "jumpUrl": "https://a.puretext1.xyz"
   },
-  {
-    "checkUrl": "http://142.171.181.78:9870",
-    "jumpUrl": "http://142.171.181.78:9870"  
-  },
   "https://v.puretext.xyz",
   "https://20240301.puretext1.xyz",
   "https://20240301.purecloud.me",
   "https://20240227.puretext1.xyz",
-  "https://20240227.purecloud.me",
-  "http://142.171.181.78:9870"
+  "https://20240227.purecloud.me"
 ]
