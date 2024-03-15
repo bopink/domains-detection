@@ -4,12 +4,16 @@
     "jumpUrl": "https://v.puretext.xyz"
   },
   {
-    "checkUrl": "https://20240315.puretext1.xyz",
-    "jumpUrl": "https://20240315.puretext1.xyz"
+    "checkUrl": "https://a1.puretext.one",
+    "jumpUrl": "https://a1.puretext.one"
   },
   {
-    "checkUrl": "https://20240315.purecloud.me",
-    "jumpUrl": "https://20240315.purecloud.me"
+    "checkUrl": "https://a1.puretext.one",
+    "jumpUrl": "https://a1.puretext.one"
+  },
+  {
+    "checkUrl": "https://20240315.puretext.one",
+    "jumpUrl": "https://20240315.puretext.one"
   },
   {
     "checkUrl": "https://20240312.puretext1.xyz",
@@ -20,8 +24,8 @@
     "jumpUrl": "https://20240312.purecloud.me"
   },
   "https://v.puretext.xyz",
-  "https://20240315.puretext1.xyz",
-  "https://20240315.purecloud.me",
+  "https://a1.puretext.one",
+  "https://20240315.puretext.one",
   "https://20240312.puretext1.xyz",
-  "https://20240312.purecloud.me"
+  "https://20240315.purecloud.me"
 ]
