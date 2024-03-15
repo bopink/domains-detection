@@ -1,22 +1,22 @@
 [
   {
-    "checkUrl": "https://v.puretext.xyz",
-    "jumpUrl": "https://v.puretext.xyz"
+    "checkUrl": "https://v.puretext.xyz/api/v1/guest/comm/config",
+    "jumpUrl": "https://v.puretext.xyz/#/"
   },
   {
-    "checkUrl": "https://a1.puretext.one",
-    "jumpUrl": "https://a1.puretext.one"
+    "checkUrl": "https://a1.puretext.one/api/v1/guest/comm/config",
+    "jumpUrl": "https://a1.puretext.one/#/"
   },
   {
-    "checkUrl": "https://20240315.puretext.one",
-    "jumpUrl": "https://20240315.puretext.one"
+    "checkUrl": "https://20240315.puretext.one/api/v1/guest/comm/config",
+    "jumpUrl": "https://20240315.puretext.one/#/"
   },
   {
-    "checkUrl": "https://20240315.purecloud.me",
-    "jumpUrl": "https://20240315.purecloud.me"
+    "checkUrl": "https://20240315.purecloud.me/api/v1/guest/comm/config",
+    "jumpUrl": "https://20240315.purecloud.me/#/"
   },
-  "https://v.puretext.xyz",
-  "https://a1.puretext.one",
-  "https://20240315.puretext.one",
-  "https://20240315.purecloud.me"
+  "https://v.puretext.xyz/#/",
+  "https://a1.puretext.one/#/",
+  "https://20240315.puretext.one/#/",
+  "https://20240315.purecloud.me/#/"
 ]
