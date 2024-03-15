@@ -12,16 +12,11 @@
     "jumpUrl": "https://20240315.puretext.one"
   },
   {
-    "checkUrl": "https://20240312.puretext1.xyz",
-    "jumpUrl": "https://20240312.puretext1.xyz"
-  },
-  {
-    "checkUrl": "https://20240312.purecloud.me",
-    "jumpUrl": "https://20240312.purecloud.me"
+    "checkUrl": "https://20240315.purecloud.me",
+    "jumpUrl": "https://20240315.purecloud.me"
   },
   "https://v.puretext.xyz",
   "https://a1.puretext.one",
   "https://20240315.puretext.one",
-  "https://20240312.puretext1.xyz",
   "https://20240315.purecloud.me"
 ]
