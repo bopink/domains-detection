@@ -8,10 +8,10 @@
     "jumpUrl": "https://a2.puretext.one/#/"
   },
   {
-    "checkUrl": "https://20240328.puretext.one/api/v1/guest/comm/config",
-    "jumpUrl": "https://20240328.puretext.one/#/"
+    "checkUrl": "https://p2.puretext.one/api/v1/guest/comm/config",
+    "jumpUrl": "https://p2.puretext.one/#/"
   },
   "https://v.puretext.xyz/#/",
   "https://a2.puretext.one/#/",
-  "https://20240328.puretext.one/#/"
+  "https://p2.puretext.one/#/"
 ]
