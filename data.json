@@ -4,14 +4,14 @@
     "jumpUrl": "https://v.puretext.xyz/#/"
   },
   {
-    "checkUrl": "https://a3.puretext2.xyz/api/v1/guest/comm/config",
-    "jumpUrl": "https://a3.puretext2.xyz/#/"
+    "checkUrl": "https://a1.puretext3.xyz/api/v1/guest/comm/config",
+    "jumpUrl": "https://a1.puretext3.xyz/#/"
   },
   {
-    "checkUrl": "https://v3.puretext2.xyz/api/v1/guest/comm/config",
-    "jumpUrl": "https://v3.puretext2.xyz/#/"
+    "checkUrl": "https://v1.puretext3.xyz/api/v1/guest/comm/config",
+    "jumpUrl": "https://v1.puretext3.xyz/#/"
   },
   "https://v.puretext.xyz/#/",
-  "https://a3.puretext2.xyz/#/",
-  "https://v3.puretext2.xyz/#/"
+  "https://a1.puretext3.xyz/#/",
+  "https://v1.puretext3.xyz/#/"
 ]
